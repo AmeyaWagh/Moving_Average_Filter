@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map for Moving_Average_filter
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Averaging_Filter	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+LowPassFilter	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+average    LITERAL1
+median    LITERAL1
