@@ -17,5 +17,5 @@ LowPassFilter	KEYWORD2
 #######################################
 # Constants (LITERAL1)
 #######################################
-average    LITERAL1
-median    LITERAL1
+average	LITERAL1
+median	LITERAL1
